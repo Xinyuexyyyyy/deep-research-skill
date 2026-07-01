@@ -1,5 +1,7 @@
 # Deep Research Skill
 
+[中文说明 / Chinese README](README.zh-CN.md)
+
 A lightweight skill bundle for turning vague research requests into clear, evidenced, and usable outputs.
 
 It is designed for agent runtimes that support `SKILL.md` files, but the method can also be copied into any AI assistant instruction system.
